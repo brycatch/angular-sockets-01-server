@@ -6,13 +6,13 @@
 npm install
 ```
 
-##Generar DIST
+## Generar DIST
 
 ```
 tsc -w
 ```
 
-##Levantar servidor
+## Levantar servidor
 
 ```
 nodemon dist/
